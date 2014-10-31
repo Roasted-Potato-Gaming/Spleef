@@ -1,0 +1,11 @@
+name: Spleef
+main: com.roastedpotatogaming.spleef.Spleef
+version: 0.0.1
+author: ScruffyRules
+authors: [azdaspaz818]
+depend: [WorldGuard]
+loadbefore: [WorldGuard]
+
+commands:
+  spleef:
+    usage: "Usage: /spleef <add|remove|list|join|leave>"
